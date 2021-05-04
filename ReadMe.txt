@@ -1,0 +1,1 @@
+Projekt współtworzony razem z Kacprem Sefaniakiem

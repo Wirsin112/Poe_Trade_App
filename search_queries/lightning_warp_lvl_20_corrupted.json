@@ -1,0 +1,1 @@
+{"query":{"status":{"option":"online"},"type":"Lightning Warp","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"corrupted":{"option":"true"},"gem_level":{"min":20,"max":20}}}}},"sort":{"price":"asc"}}

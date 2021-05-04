@@ -1,0 +1,1 @@
+{"query":{"status":{"option":"online"},"name":"Agnerod South","type":"Imperial Staff","stats":[{"type":"and","filters":[]}],"filters":{"misc_filters":{"filters":{"ilvl":{"min":81}}}}},"sort":{"price":"asc"}}

@@ -1,0 +1,28 @@
+{
+    "query": {
+        "status": {
+            "option": "online"
+        },
+        "name": "The Anima Stone",
+        "type": "Prismatic Jewel",
+        "stats": [
+            {
+                "type": "and",
+                "filters": [
+                ]
+            }
+        ],
+        "filters": {
+            "misc_filters": {
+                "filters": {
+                    "corrupted": {
+                        "option": "false"
+                    }
+                }
+            }
+        }
+    },
+    "sort": {
+        "price": "asc"
+    }
+}

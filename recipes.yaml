@@ -1,0 +1,235 @@
+vendor_recipes:
+  The_Anima_Stone:
+    components: [ [ "primordial_eminence", 1 ],
+                  [ "primordial_harmony", 1 ],
+                  [ "primordial_might", 1 ] ]
+    results: [ [ "anima_stone_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Anima_Stone"
+  Arborix:
+    components: [ [ "grelwood_shank", 1 ],
+                  [ "beltimber_blade", 1 ] ]
+    results: [ [ "arborix_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Arborix"
+  Duskdawn:
+    components: [ [ "shade_of_solaris_not_corrupted", 1 ],
+                  [ "light_of_lunaris_not_corrupted", 1 ] ]
+    results: [ [ "duskdawn_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Duskdawn"
+  The_Goddess_Scorned:
+    components: [ [ "the_goddess_bound_not_corrupted", 1 ],
+                  [ "elegant_sword_non_corrupted_non_unique", 1 ] ]
+    results: [ [ "the_goddess_scorned_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Goddess_Scorned"
+  Kingmaker:
+    components: [ [ "soul_taker_not_corrupted", 1 ],
+                  [ "heartbreaker_not_corrupted", 1 ] ]
+    results: [ [ "kingmaker_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Kingmaker"
+  Magna_Eclipsis:
+    components: [ [ "invictus_solaris", 1 ],
+                  [ "vix_lunaris", 1 ] ]
+    results: [ [ "magna_eclipsis_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Magna_Eclipsis"
+  The_Retch:
+    components: [ [ "faminebind", 1 ],
+                  [ "feastbind", 1 ] ]
+    results: [ [ "the_retch_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Retch"
+  Star_of_Wraeclast:
+    components: [ [ "ruby_ring_unique", 1 ],
+                  [ "lightning_warp_lvl_20_corrupted", 1 ] ]
+    results: [ [ "star_of_wraeclast", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Star_of_Wraeclast"
+  The_Taming:
+    components: [ [ "berek's_grip", 1 ],
+                  [ "berek's_pass", 1 ],
+                  [ "berek's_respite", 1 ] ]
+    results: [ [ "the_taming_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Taming"
+  The_Vinktar_Square:
+    components: [ [ "agnerod_east", 1 ],
+                  [ "agnerod_north", 1 ],
+                  [ "agnerod_south", 1 ],
+                  [ "agnerod_west", 1 ] ]
+    results: [ [ "the_vinktar_square", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Vinktar_Square"
+  The_Vinktar_Square_tier_14:
+    components: [ [ "agnerod_east_ilvl_81", 1 ],
+                  [ "agnerod_north_ilvl_81", 1 ],
+                  [ "agnerod_south_ilvl_81", 1 ],
+                  [ "agnerod_west_ilvl_81", 1 ] ]
+    results: [ [ "the_vinktar_square_tier_14", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Vinktar_Square"
+harbinger_upgrades:
+  The_Tempests_Liberation:
+    components: [ [ "the_tempests_binding_not_corrupted", 1 ],
+                  [ "deregulation_scroll", 1 ] ]
+    results: [ [ "the_tempests_liberation_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Tempest%27s_Liberation"
+  The_Surging_Thoughts:
+    components: [ [ "the_rippling_thoughts_not_corrupted", 1 ],
+                  [ "electroshock_scroll", 1 ] ]
+    results: [ [ "the_surging_thoughts_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Surging_Thoughts"
+  The_Shattered_Divinity:
+    components: [ [ "the_fracturing_spinner_not_corrupted", 1 ],
+                  [ "fragmentation_scroll", 1 ] ]
+    results: [ [ "the_shattered_divinity_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Shattered_Divinity"
+  The_Yielding_Mortality:
+    components: [ [ "the_enmity_divine_not_corrupted", 1 ],
+                  [ "haemocombustion_scroll", 1 ] ]
+    results: [ [ "the_yielding_mortality_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Yielding_Mortality"
+  The_Immortal_Will:
+    components: [ [ "the_unshattered_will_not_corrupted", 1 ],
+                  [ "specularity_scroll", 1 ] ]
+    results: [ [ "the_immortal_will_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Immortal_Will"
+  The_Torrents_Reclamation:
+    components: [ [ "the_flow_untethered_not_corrupted", 1 ],
+                  [ "time-light_scroll", 1 ] ]
+    results: [ [ "the_torrents_reclamation_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Torrent%27s_Reclamation"
+vial_uniques:
+  Apeps_Supremacy:
+    components: [ [ "apeps_slumber_not_corrupted", 1 ],
+                  [ "vial_of_awakening", 1 ] ]
+    results: [ [ "apeps_supremacy_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Apep%27s_Supremacy"
+  Cowards_Legacy:
+    components: [ [ "cowards_chains_not_corrupted", 1 ],
+                  [ "vial_of_consequence", 1 ] ]
+    results: [ [ "cowards_legacy_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Coward%27s_Legacy"
+  Slavedrivers_Hand:
+    components: [ [ "architects_hand_not_corrupted", 1 ],
+                  [ "vial_of_dominance", 1 ] ]
+    results: [ [ "slavedrivers_hand_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Slavedriver%27s_Hand"
+  Fate_of_the_Vaal:
+    components: [ [ "story_of_the_vaal_not_corrupted", 1 ],
+                  [ "vial_of_fate", 1 ] ]
+    results: [ [ "fate_of_the_vaal_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Fate_of_the_Vaal"
+  Mask_of_the_Stitched_Demon:
+    components: [ [ "mask_of_the_spirit_drinker_not_corrupted", 1 ],
+                  [ "vial_of_summoning", 1 ] ]
+    results: [ [ "mask_of_the_stitched_demon_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Mask_of_the_Stitched_Demon"
+  Omeyocan:
+    components: [ [ "dance_of_the_offered_not_corrupted", 1 ],
+                  [ "vial_of_the_ritual", 1 ] ]
+    results: [ [ "omeyocan_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Omeyocan"
+  Transcendent_Flesh:
+    components: [ [ "tempered_flesh_not_corrupted", 1 ],
+                  [ "vial_of_transcendence", 1 ] ]
+    results: [ [ "transcendent_flesh_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Transcendent_Flesh"
+  Transcendent_Spirit:
+    components: [ [ "tempered_spirit_not_corrupted", 1 ],
+                  [ "vial_of_transcendence", 1 ] ]
+    results: [ [ "transcendent_spirit_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Transcendent_Spirit"
+  Transcendent_Mind:
+    components: [ [ "tempered_mind_not_corrupted", 1 ],
+                  [ "vial_of_transcendence", 1 ] ]
+    results: [ [ "transcendent_mind_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Transcendent_Mind"
+  Soul_Ripper:
+    components: [ [ "soul_catcher", 1 ],
+                  [ "vial_of_the_ghost", 1 ] ]
+    results: [ [ "soul_ripper", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Soul_Ripper"
+blessing_upgrades:
+  Xophs_Nurture:
+    components: [ [ "xophs_inception_not_corrupted", 1 ],
+                  [ "blessing_of_xoph", 1 ] ]
+    results: [ [ "xophs_nurture_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Xoph%27s_Nurture"
+  The_Formless_Inferno:
+    components: [ [ "the_formless_flame_not_corrupted", 1 ],
+                  [ "blessing_of_xoph", 1 ] ]
+    results: [ [ "the_formless_inferno_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Formless_Inferno"
+  Xophs_Blood:
+    components: [ [ "xophs_heart_not_corrupted", 1 ],
+                  [ "blessing_of_xoph", 1 ] ]
+    results: [ [ "xophs_blood_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Xoph%27s_Blood"
+  Tulfall:
+    components: [ [ "tulborn_not_corrupted", 1 ],
+                  [ "blessing_of_tul", 1 ] ]
+    results: [ [ "tulfall_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Tulfall"
+  The_Perfect_Form:
+    components: [ [ "the snowblind_grace_not_corrupted", 1 ],
+                  [ "blessing_of_tul", 1 ] ]
+    results: [ [ "the_perfect_form_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Perfect_Form"
+  The_Pandemonius:
+    components: [ [ "the_halcyon_not_corrupted", 1 ],
+                  [ "blessing_of_tul", 1 ] ]
+    results: [ [ "the_pandemonuis_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Pandemonius"
+  Hand_of_Wisdom_and_Action:
+    components: [ [ "hand_of_thought_and_motion_not_corrupted", 1 ],
+                  [ "blessing_of_esh", 1 ] ]
+    results: [ [ "hand_of_wisdon_and_action_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Hand_of_Wisdom_and_Action"
+  Eshs_Visage:
+    components: [ [ "eshs_mirror_not_corrupted", 1 ],
+                  [ "blessing_of_esh", 1 ] ]
+    results: [ [ "eshs_visage_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Esh%27s_Visage"
+  Choir_of_the_Storm:
+    components: [ [ "voice_of_the_storm_not_corrupted", 1 ],
+                  [ "blessing_of_esh", 1 ] ]
+    results: [ [ "choir_of_the_storm_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Choir_of_the_Storm"
+  Uul-Netols_Embrace:
+    components: [ [ "uul-netols_kiss_not_corrupted", 1 ],
+                  [ "blessing_of_uul-netol", 1 ] ]
+    results: [ [ "uul-netols_embrace_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Uul-Netol%27s_Embrace"
+  The_Red_Trail:
+    components: [ [ "the_infinite_pursuit_not_corrupted", 1 ],
+                  [ "blessing_of_uul-netol", 1 ] ]
+    results: [ [ "the_red_trail_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Red_Trail"
+  The_Surrender:
+    components: [ [ "the_anticipation_not_corrupted", 1 ],
+                  [ "blessing_of_uul-netol", 1 ] ]
+    results: [ [ "the_surrender_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Surrender"
+  United_in_Dream:
+    components: [ [ "severed_in_sleep_not_corrupted", 1 ],
+                  [ "blessing_of_chayula", 1 ] ]
+    results: [ [ "united_in_dream_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/United_in_Dream"
+  Skin_of_the_Lords:
+    components: [ [ "skin_of_the_loyal_not_corrupted", 1 ],
+                  [ "blessing_of_chayula", 1 ] ]
+    results: [ [ "skin_of_the_lords", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Skin_of_the_Lords"
+  Presence_of_Chayula:
+    components: [ [ "eye_of_chayula_not_corrupted", 1 ],
+                  [ "blessing_of_chayula", 1 ] ]
+    results: [ [ "presence_of_chayula_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/Presence_of_Chayula"
+  The_Red_Nightmare:
+    components: [ [ "the_red_dream_not_corrupted", 1 ],
+                  [ "blessing_of_chayula", 1 ] ]
+    results: [ [ "the_red_nightmare_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Red_Nightmare"
+  The_Green_Nightmare:
+    components: [ [ "the_green_dream_not_corrupted", 1 ],
+                  [ "blessing_of_chayula", 1 ] ]
+    results: [ [ "the_green_nightame_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Green_Nightmare"
+  The_Blue_Nightmare:
+    components: [ [ "the_blue_dream_not_corrupted", 1 ],
+                  [ "blessing_of_chayula", 1 ] ]
+    results: [ [ "the_blue_nightmare_not_corrupted", 1 ] ]
+    wiki: "https://pathofexile.gamepedia.com/The_Blue_Nightmare"
